@@ -133,7 +133,7 @@ function Header() {
           onClick={async () => {
             try {
               await connectWallet();
-              window.location.reload();
+              // window.location.reload();
             } catch (error) {
               console.log(error);
             }
