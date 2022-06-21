@@ -56,7 +56,7 @@ Community is integral part of any ecosystem and at BigBullGamers community membe
 
 <img width="1440" alt="Screenshot 2022-06-21 at 9 58 07 AM" src="https://user-images.githubusercontent.com/107861211/174717168-467d27cb-09d6-450a-a079-4486bcd57a59.png">
 
-This was all about BigBullGamers, thank you Boba Network and Dora Hacks team for this opportunity.
+ # This was all about BigBullGamers, thank you Boba Network and Dora Hacks team for this opportunity.
 
 
 

@@ -262,7 +262,10 @@ function Group() {
                       </div>
                       {streams &&
                         streams.map((stream) => {
-                          if (value.objectId == stream.group) {
+                          if (
+                            value.objectId == stream.group ||
+                            value.status == "Following"
+                          ) {
                             return (
                               <div
                                 key={index}
