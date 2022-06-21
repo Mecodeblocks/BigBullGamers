@@ -30,7 +30,7 @@ Multisend Address = "0x3a393904E3fA87FAd21f5Cd97Bf94057d469F5a3"
 
 https://blockexplorer.rinkeby.boba.network/address/0x3a393904E3fA87FAd21f5Cd97Bf94057d469F5a3/transactions
 
-# 1) NFT Membership :
+# 1) Game Streaming NFT Membership:
 
 NFT Membership based Game Streaming: Here Gamers can have exclusive Game play stream for his/her community who owns the NFT. This will help Gamers to eliminate middleman, stream on decentralised platform and increase revenue for their live stream.
 
